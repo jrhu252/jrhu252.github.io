@@ -39,7 +39,7 @@ h1 {
     position: relative;
     bottom: -175px;
     color: #ffffff;
-    margin-left: 450px;
+    margin-left: 350px;
     
 }
 
@@ -49,7 +49,7 @@ p {
     position: relative;
     bottom: -225px;
     font-size: 22px;
-    margin-left: 450px;
+    margin-left: 350px;
     border-style: hidden;
     border: 1px;
     word-wrap: normal;
@@ -61,7 +61,7 @@ div {
     position: relative;
     bottom: -125px;
     font-size: 22px;
-    margin-left: 450px;
+    margin-left: 350px;
     border-style: hidden;
     border: 1px;
     word-wrap: normal;
@@ -74,7 +74,7 @@ div2 {
     position: relative;
     bottom: -150px;
     font-size: 22px;
-    margin-left: 450px;
+    margin-left: 350px;
     border-style: hidden;
     border: 1px;
     word-wrap: normal;
