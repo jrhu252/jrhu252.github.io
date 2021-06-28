@@ -1,8 +1,4 @@
 
-@font-face {
-  font-family: OpenSans;
-  src: url(OpenSans-Regular.ttf);
-}
 
 ul {
   list-style-type: none;
@@ -39,19 +35,48 @@ body{
 
 h1 {
     font-size: 100px;
-    text-align: center;
+    text-align: left;
     position: relative;
-    bottom: -250px;
-    left: -300px;
-    color: #e6f1ff;
-    font-family: OpenSans;
+    bottom: -175px;
+    color: #ffffff;
+    margin-left: 450px;
+    
 }
 
 p {
-    color: #e6f1ff;
-    font-family: OpenSans;
-    text-align: center;
+    color: #c8c8c7;
+    text-align: left;
     position: relative;
-    bottom: -300px;
-    left: -400px;
+    bottom: -225px;
+    font-size: 22px;
+    margin-left: 450px;
+    border-style: hidden;
+    border: 1px;
+    word-wrap: normal;
+}
+
+div {
+    color: #c8c8c7;
+    text-align: left;
+    position: relative;
+    bottom: -125px;
+    font-size: 22px;
+    margin-left: 450px;
+    border-style: hidden;
+    border: 1px;
+    word-wrap: normal;
+    padding: 3px;
+}
+
+div2 {
+    color: #c8c8c7;
+    text-align: left;
+    position: relative;
+    bottom: -150px;
+    font-size: 22px;
+    margin-left: 450px;
+    border-style: hidden;
+    border: 1px;
+    word-wrap: normal;
+    padding: 3px;
 }
