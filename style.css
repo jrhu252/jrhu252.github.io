@@ -1,17 +1,57 @@
+
+@font-face {
+  font-family: OpenSans;
+  src: url(OpenSans-Regular.ttf);
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  position: relative;
+  top: 20px;
+}
+
+li {
+  float: right;
+}
+
+li a {
+  color: white;
+  text-align: center;
+  padding: 24px 24px;
+  text-decoration: none;
+  font-size: 24px;
+}
+
+li a:hover {
+  background-color: #111;
+}
+
 head{
     padding: 10px;
 }
 
 body{
-    background-color: #0a192f;
+    background-color: #0033a0;
 }
 
 h1 {
+    font-size: 100px;
     text-align: center;
-    bottom: 50px;
+    position: relative;
+    bottom: -250px;
+    left: -300px;
     color: #e6f1ff;
+    font-family: OpenSans;
 }
 
 p {
     color: #e6f1ff;
+    font-family: OpenSans;
+    text-align: center;
+    position: relative;
+    bottom: -300px;
+    left: -400px;
 }
