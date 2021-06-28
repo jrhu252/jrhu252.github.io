@@ -1,11 +1,12 @@
 head{
-    background-image: url("Background.png");
+    padding: 10px;
 }
 
 body{
-    background-image: url("Background.png");
+    background-color: #5CDB95;
 }
 
 h1 {
-    background-color: rgb(109, 134, 219);
+    padding: 10px;
 }
+
